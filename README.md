@@ -1,1 +1,1 @@
-
+Just having fun exploring the possibilities of procedural map generation using Diffusion-Limited Aggregation. I started with a simple implementation on python using fltk, a basic graphic module given by our university. I then reused the logic and some cellular automata in a more polished procedural map generator in the Godot game engine.
